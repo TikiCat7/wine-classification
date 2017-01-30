@@ -1,0 +1,14 @@
+{
+  "name": "wine-classification",
+  "version": "1.0.0",
+  "description": "practice for ML using snypatic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "synaptic": "^1.0.8"
+  }
+}
